@@ -9,7 +9,7 @@ output:
 
 Página curada por [José Incio](www.joseincio.com) Twitter: (@jlincio). En esta página ordeno las fake news y las respuestas a estas por parte de la ONPE,JNE, AMA LLULLA. 
 
-Voluntarios bienvenidos (el repo en github: )
+Voluntarios bienvenidos (el repo en github:[https://github.com/DecideBienpe/fakenews](https://github.com/DecideBienpe/fakenews) )
 
 ## Sobre Actas
 
