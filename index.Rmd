@@ -1,0 +1,65 @@
+---
+title: "FAKE NEWS ELECTORALES"
+author: "José Incio"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Página curada por [José Incio](www.joseincio.com) Twitter: (@jlincio). En esta página ordeno las fake news y las respuestas a estas por parte de la ONPE,JNE, AMA LLULLA. 
+
+Voluntarios bienvenidos (el repo en github: )
+
+## Sobre Actas
+
+### 10 mil cédulas
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/EleccionesBicentenario?src=hash&amp;ref_src=twsrc%5Etfw">#EleccionesBicentenario</a> Es <a href="https://twitter.com/hashtag/FALSA?src=hash&amp;ref_src=twsrc%5Etfw">#FALSA</a> la presunta imagen de 2 sujetos capturados con 10 mil cédulas de votos a favor de <a href="https://twitter.com/hashtag/KeikoFujimori?src=hash&amp;ref_src=twsrc%5Etfw">#KeikoFujimori</a>. En realidad, se trata de los famosos youtubers Raúl Álvarez [<a href="https://twitter.com/auronplay?ref_src=twsrc%5Etfw">@auronplay</a>] y Luis Arturo Villar [<a href="https://twitter.com/LuisitoComunica?ref_src=twsrc%5Etfw">@LuisitoComunica</a>].<br>👉<a href="https://t.co/6AKnmbC5rl">https://t.co/6AKnmbC5rl</a> <a href="https://t.co/TGa9oNGRPs">pic.twitter.com/TGa9oNGRPs</a></p>&mdash; OjoPúblico (@Ojo_Publico) <a href="https://twitter.com/Ojo_Publico/status/1404593967963029507?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 047114 
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Esta es una <a href="https://twitter.com/hashtag/NOTICIAFALSA?src=hash&amp;ref_src=twsrc%5Etfw">#NOTICIAFALSA</a>! ✋<br>Al igual que en otros casos desmentidos, la mesa Nº 047114 fue observada por error material y el JEE resolvió anular los votos para AMBOS partidos (Ver imagen y link): <a href="https://t.co/z1cUl7F25c">https://t.co/z1cUl7F25c</a><br>¡Dile no a las <a href="https://twitter.com/hashtag/FAKENEWS?src=hash&amp;ref_src=twsrc%5Etfw">#FAKENEWS</a>! 🚫 <a href="https://t.co/dkSilqIGki">pic.twitter.com/dkSilqIGki</a></p>&mdash; ONPE (@ONPE_oficial) <a href="https://twitter.com/ONPE_oficial/status/1404232577779748866?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 082307 
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/JNEFactChecking?src=hash&amp;ref_src=twsrc%5Etfw">#JNEFactChecking</a> <br>El Comité Técnico de Fact Checking del <a href="https://twitter.com/hashtag/JNE?src=hash&amp;ref_src=twsrc%5Etfw">#JNE</a> advierte que es FALSO que el acta N° 082307, proveniente de Japón, haya sido anulada. Esta acta fue observada por ONPE y luego declarada válida por el JEE Lima Centro1. El total de sus votos será parte del conteo. <a href="https://t.co/ob4yVRErBl">pic.twitter.com/ob4yVRErBl</a></p>&mdash; JNE Perú (@JNE_Peru) <a href="https://twitter.com/JNE_Peru/status/1404634465796771843?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 035366 
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Sí, es normal. Lo que ocurre es que un voto del acta Nº 035366 fue impugnado. Así, mientras no se resolviera, no se podía contabilizar. Tras ser resuelto por el JEE (Ver IMG), el voto fue contabilizado, por eso la diferencia entre el PDF y su versión web: <a href="https://t.co/cT4Xr4PJXy">https://t.co/cT4Xr4PJXy</a> <a href="https://t.co/WHu2WC9SPu">https://t.co/WHu2WC9SPu</a> <a href="https://t.co/hmVnV3rCGO">pic.twitter.com/hmVnV3rCGO</a></p>&mdash; ONPE (@ONPE_oficial) <a href="https://twitter.com/ONPE_oficial/status/1404230095104098308?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 048145
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">El acta de la mesa Nº 048145 fue observada por error material y el JEE resolvió anular los votos para AMBOS partidos (Ver imágenes y link): <a href="https://t.co/Hvaxi65Uke">https://t.co/Hvaxi65Uke</a> (1/3) <a href="https://t.co/KNvAryznJq">https://t.co/KNvAryznJq</a> <a href="https://t.co/EA0G4EbglC">pic.twitter.com/EA0G4EbglC</a></p>&mdash; ONPE (@ONPE_oficial) <a href="https://twitter.com/ONPE_oficial/status/1404137696822501377?ref_src=twsrc%5Etfw">June 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Sobre Organismos Electorales 
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">El <a href="https://twitter.com/hashtag/JNE?src=hash&amp;ref_src=twsrc%5Etfw">#JNE</a> alerta que es FALSO que la actriz Ébelin Ortiz esté brindando charlas en el actual proceso electoral. Ortiz participó ad honorem en la campaña sobre el acoso político “Mujeres al Poder”, en el marco de las Elecc. Congresales Ext. 2020, al igual que otras personalidades. <a href="https://t.co/oDxMPuOWCr">pic.twitter.com/oDxMPuOWCr</a></p>&mdash; JNE Perú (@JNE_Peru) <a href="https://twitter.com/JNE_Peru/status/1404529470476886016?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Militares y golpe 
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/DesmentidoEnRedes?src=hash&amp;ref_src=twsrc%5Etfw">#DesmentidoEnRedes</a> El Ministerio de Defensa [<a href="https://twitter.com/MindefPeru?ref_src=twsrc%5Etfw">@MindefPeru</a>] ha descartado la legitimidad de comunicado suscrito por ex altos mandos de las FF.AA. Aclaró que los firmantes hicieron uso indebido de emblemas oficiales, por lo que se tomará acciones legales. <a href="https://t.co/BKvfg7fZ32">https://t.co/BKvfg7fZ32</a></p>&mdash; Ama Llulla (@AmaLlulla_2021) <a href="https://twitter.com/AmaLlulla_2021/status/1404566067184287747?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Sobre Vladimir Cerrón
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">[FALSO] Versión que JNE ha incluido a Vladimir Cerrón en la plancha de Perú Libre, vía <a href="https://twitter.com/AmaLlulla_2021?ref_src=twsrc%5Etfw">@AmaLlulla_2021</a> <a href="https://t.co/Ern7CrcxbE">https://t.co/Ern7CrcxbE</a> <a href="https://twitter.com/hashtag/elbuho?src=hash&amp;ref_src=twsrc%5Etfw">#elbuho</a></p>&mdash; El Búho🦉 (@elbuho_pe) <a href="https://twitter.com/elbuho_pe/status/1404497927280672776?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Divulgadore/as de Fake News 
+
+### MMMQ
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La explicación no es para nada rara. La empresa solo participó en la implementación de centros de cómputo, sin embargo NO TIENE relación alguna con el sistema de cómputo de actas. Este fue desarrollado y es manejado por nuestros <a href="https://twitter.com/hashtag/chalecosazules?src=hash&amp;ref_src=twsrc%5Etfw">#chalecosazules</a>, en presencia de los personeros. <a href="https://t.co/jNGmTQ6WCP">https://t.co/jNGmTQ6WCP</a></p>&mdash; ONPE (@ONPE_oficial) <a href="https://twitter.com/ONPE_oficial/status/1404583140585246727?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+### BSchaff
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Si entras a revisar cada acta, entenderás cómo votaron en esas mesas. Por ejem, la N° 033563, de Lima, fue observada y aquí está la resolución: <a href="https://t.co/X8Cg1j7zSt">https://t.co/X8Cg1j7zSt</a><br>Sobre tus otras dudas, te recomendamos leer el🧵de <a href="https://twitter.com/alecosta?ref_src=twsrc%5Etfw">@alecosta</a> y <a href="https://twitter.com/kennethsanchezg?ref_src=twsrc%5Etfw">@kennethsanchezg</a>: <a href="https://t.co/x0IzKabeVh">https://t.co/x0IzKabeVh</a> <a href="https://t.co/E5bzWZN5Ud">https://t.co/E5bzWZN5Ud</a></p>&mdash; ONPE (@ONPE_oficial) <a href="https://twitter.com/ONPE_oficial/status/1404118961801863177?ref_src=twsrc%5Etfw">June 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## "Estadísticamente"
+
+Se está haciendo análisis muy ligero sobre las elecciones. Creo que hay que ser más responsables. 
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Usualmente me gustan tus hilos <a href="https://twitter.com/rburhum?ref_src=twsrc%5Etfw">@rburhum</a>, sin embargo con este no estoy de acuerdo y creo que es bastante problemático y lo que propones algo irresponsable<br>1) El término irregularidades no está bien usado aquí. Hace referencia a manipulación o posible manipulación ... 🧵 <a href="https://t.co/BVN2hHVzG9">https://t.co/BVN2hHVzG9</a></p>&mdash; José Incio (@Jlincio) <a href="https://twitter.com/Jlincio/status/1404256144026214402?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
