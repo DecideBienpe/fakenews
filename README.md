@@ -1,6 +1,6 @@
 # Presentación
 
-Este repositorio es de la página fakenews2021.decidebien.pe
+Este repositorio es de la página chapatufake.decidebien.pe
 Página curada por [José Incio](www.joseincio.com) Twitter: (@jlincio). Fuente:
 
 ONPE,JNE, Red AMA LLULLA. 
