@@ -7,6 +7,9 @@ ONPE,JNE, Red AMA LLULLA.
 
 Voluntarios bienvenidos
 
-- Para agregar una verificación pueden modificar el RMD (NO el html) y mandar un PR
+  - Para agregar una verificación pueden modificar el RMD (NO el html) y mandar un PR.
+  - Si es un tweet pega el código para embed el tweet
+  - No trates de pegarlo en más de una categoría. Si consideras que se debe crear una nueva categoría proponla
 
-- Esto es muy simple, así que si a alguien se le ocurre algo más chévere mejor aún. 
+
+Esto es muy simple, así que si a alguien se le ocurre algo más chévere mejor aún. 
